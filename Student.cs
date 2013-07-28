@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace TestApp.Model
 {
-  public class Student
+	public class Student
 	{
 		[Key]
 		[MaxLength(10)]
